@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Chiller_Testing_Lab_Software.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="S1OffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="S2OffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="S3OffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="S4OffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SCOffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SHOffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DLOffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LLOffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="A1OffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="A2OffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="A3OffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="A4OffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="A5OffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="A6OffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="A7OffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="A8OffSet" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

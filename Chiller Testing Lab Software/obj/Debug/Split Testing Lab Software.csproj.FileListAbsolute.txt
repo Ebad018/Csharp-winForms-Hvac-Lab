@@ -1,0 +1,26 @@
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\bin\Debug\Chiller Testing Lab Software.exe.config
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\bin\Debug\Chiller Testing Lab Software.exe.manifest
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\bin\Debug\Chiller Testing Lab Software.application
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\bin\Debug\Chiller Testing Lab Software.exe
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\bin\Debug\Chiller Testing Lab Software.pdb
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\bin\Debug\itextsharp.dll
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\bin\Debug\System.IO.Ports.dll
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\bin\Debug\itextsharp.xml
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\bin\Debug\System.IO.Ports.xml
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\obj\Debug\Split Testing Lab Software.csproj.AssemblyReference.cache
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\obj\Debug\Chiller_Testing_Lab_Software.Form1.resources
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\obj\Debug\Chiller_Testing_Lab_Software.Form2.resources
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\obj\Debug\Chiller_Testing_Lab_Software.Form3.resources
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\obj\Debug\Chiller_Testing_Lab_Software.Properties.Resources.resources
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\obj\Debug\Split Testing Lab Software.csproj.GenerateResource.cache
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\obj\Debug\Split Testing Lab Software.csproj.CoreCompileInputs.cache
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\obj\Debug\Chiller Testing Lab Software.exe.manifest
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\obj\Debug\Chiller Testing Lab Software.application
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\obj\Debug\Split Testing Lab Software.csproj.CopyComplete
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\obj\Debug\Chiller Testing Lab Software.exe
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\obj\Debug\Chiller Testing Lab Software.pdb
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\bin\Debug\NModbus.dll
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\bin\Debug\NModbus.Serial.dll
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\bin\Debug\NModbus.xml
+C:\Users\Rayyan Tech\source\repos\Chiller Testing Lab Software\Chiller Testing Lab Software\bin\Debug\NModbus.Serial.xml
