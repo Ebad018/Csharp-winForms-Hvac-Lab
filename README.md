@@ -1,67 +1,52 @@
-🧩 Core Functionality
-The application:
+# 🧪 C# WinForms HVAC Testing Lab Software
 
-Communicates with multiple Modbus RTU slaves via SerialPort.
+This project is a **Windows Forms Application** developed in C# to automate and analyze data from HVAC Chiller Testing Labs. It communicates with Modbus RTU-compatible hardware via serial ports to collect temperature, pressure, humidity, and electrical readings in real-time and exports detailed reports as PDFs.
 
-Continuously reads temperature, pressure, humidity, voltage, current, and other sensor data.
+---
 
-Parses incoming bytes, validates them via CRC, and updates the UI with real-time data.
+## 🔧 Features
 
-Calculates:
+- 📡 **Modbus RTU Serial Communication**  
+  Supports multiple slave devices (ID 1 to 6), each collecting a specific type of sensor data.
 
-Wet bulb temperature
+- 📊 **Real-Time Sensor Monitoring**  
+  - Temperature sensors (S1–S4, A1–A8, SH, SC, BS, CIWB)
+  - Pressure and Humidity sensors
+  - Electrical parameters (Voltage, Current, Power, EER)
+  - Wet Bulb and Enthalpy-based calculations
 
-Enthalpy (via lookup table)
+- 📐 **BTU & Efficiency Calculations**  
+  Computes:
+  - Total BTU (tBTU)
+  - Sensible BTU (sBTU)
+  - Latent capacity
+  - Superheat & Subcool using R410A PT chart
 
-Total and sensible BTU
+- 🧾 **PDF Report Generation**  
+  - Saves reports with custom labels and input fields
+  - Landscape layout grouped into Evaporator, Condenser, Electrical, and BTU data
+  - Uses `iTextSharp`
 
-Latent capacity
+- 🔁 **Auto Polling**  
+  - Automatically cycles through slave devices at 1-second intervals
+  - Can be toggled on/off from the UI
 
-Superheat and Subcool values using a PT chart (R410A)
+- ⚠️ **Error Handling & Alerts**  
+  - Disconnected/short sensors marked visually
+  - Red blinking light when tank reaches 1000ml
+  - Live error display and log
 
-Exports all test results as a well-formatted PDF report using iTextSharp.
+---
 
-🔌 Hardware Integration
-Reads data from 5 different slave devices:
+## 🧰 Technologies Used
 
-Slave 1: Temperature sensors (S1–S4, SH, SC, etc.)
+- **.NET Framework (Windows Forms)**
+- **C#**
+- **SerialPort Communication**
+- **Modbus RTU**
+- **iTextSharp** (PDF generation)
+- **Multithreading**
 
-Slave 2: Additional temperature sensors (A1–A8)
+---
 
-Slave 3: Pressure sensors (P1, P2), ultrasonic sensors, RH1, etc.
-
-Slave 5: Humidity, discharge/suction temp sensors
-
-Slave 6: Electrical parameters (Voltage, Current, Power, EER)
-
-📈 UI Features
-Real-time data display in textboxes.
-
-Dynamic COM port selection and reconnect logic.
-
-Auto-querying through all slave devices using a timer.
-
-Visual alerts for disconnected sensors or port errors.
-
-Blink indicators for critical states (e.g., tank full).
-
-Live update of calculated values like BTU, superheat, and subcooling.
-
-📄 PDF Export
-Generates a lab test report PDF (in landscape mode).
-
-Saves to a folder on desktop.
-
-Includes: Engineer name, unit specs, sensor readings, electrical data, and calculated BTU values.
-
-Draws group boxes for logical data grouping (Evaporator, Condenser, Electrical, BTU).
-
-🛠️ Other Utilities
-Temperature conversion between °C and °F
-
-PT Chart and Enthalpy lookup
-
-Serial port refresh
-
-UI scaling for dynamic window resizing
-
+## 🖥️ This is a Custom Made software that works with certian hardware and will only work on said hardware if correctly configured.
